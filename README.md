@@ -7,3 +7,7 @@ Currently, all emergency calls go through a call center in the bid order. Calls 
 ## Licences
 
 Currently under Copyright ©Romain Claret, soon will be unavailable under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 
+
+## How the heck is it working?
+
+This part will be updated soon. In the mean while you can read the documentation part of the repo for more details information.

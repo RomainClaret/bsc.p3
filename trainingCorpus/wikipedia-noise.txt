@@ -1,0 +1,49 @@
+Noise
+From Wikipedia, the free encyclopedia
+This article is about noise as an unwanted acoustic phenomenon. For other uses, see Noise (disambiguation).
+
+It has been suggested that this article be merged with Noise (acoustic). (Discuss) Proposed since January 2015.
+
+NASA researchers at Glenn Research Center conducting tests on aircraft engine noise in 1967
+Noise is a variety of sound. It means any unwanted sound. Sounds, particularly loud ones, that disturb people or make it difficult to hear wanted sounds, are noise. For example, conversations of other people may be called noise by people not involved in any of them; any unwanted sound such as domesticated dogs barking, neighbours playing loud music, portable mechanical saws, road traffic sounds, or a distant aircraft in quiet countryside, is called noise.
+
+Acoustic noise can be anything from quiet but annoying to loud and harmful. At one extreme users of public transport sometimes complain about the faint and tinny sounds emanating from the headphones or earbuds of somebody listening to a portable audio player; at the other the sound of very loud music, a jet engine at close quarters, etc. can cause irreversible hearing damage. At intermediate levels there are a range of deleterious health effects from noise. This "intolerable corruption of human space" can be called noise pollution.[1] A claim made by Luigi Russolo in his article, The Joys of Noise is that noise has become so prominent that pure sound no longer exists.[2]
+
+Roland Barthes also observes that noise can be perceived either physiologically or psychologically. We perceive noise physiologically when we "hear" it. On the other hand, when we "listen" to a noise we are doing this psychologically.[1] When we perceive a physiological noise we subconsciously feel the vibrations of the noise (sound) waves with our particles in our physical body whereas psychological noise refers to noise that is perceived when our conscious awareness shifts its attention to that noise rather than letting it filter through our subconscious where it goes unnoticed.
+
+Sound intensity follows an inverse square law with distance from the source; doubling the distance from a noise source reduces its intensity by a factor of four, or 6 dB.
+
+Contents  [hide]
+1	Regulation of acoustic noise
+2	Recording and reproduction noise
+3	See also
+4	References
+5	Further reading
+6	External links
+Regulation of acoustic noise[edit]
+Main articles: Noise regulation and Health effects from noise
+Noise regulation includes statutes or guidelines relating to sound transmission established by national, state or provincial and municipal levels of government. After a watershed passage of the U.S. Noise Control Act of 1972[1], the program was abandoned at the federal level, under President Ronald Reagan, in 1981 and the issue was left to local and state governments.[citation needed] Although the UK and Japan enacted national laws in 1960 and 1967 respectively, these laws were not at all comprehensive or fully enforceable as to address (a) generally rising ambient noise (b) enforceable numerical source limits on aircraft and motor vehicles or (c) comprehensive directives to local government.[citation needed]
+
+Underwater noise is one of 11 Descriptors of Good Environmental Status according to the EU's Marine Strategy Framework Directive.[3]
+
+Recording and reproduction noise[edit]
+
+White Noise
+MENU0:00
+Problems playing this file? See media help.
+Main article: Sound recording and reproduction
+In audio, recording, and broadcast systems audio noise refers to the residual low level sound (usually hiss and hum) that is heard in quiet periods of programme. This is also known as white noise according to the Merriam Webster Definition.[4] There is a similar phenomena to "white noise" which emanates not only from audio recording equipment but from everything and more particularly, musical instruments (whether they are acoustic or electric). These noises are "impurities." When an instrument plays a pitch, even the most beautiful sounding instruments, there is noise (consisting of impurities) projected. Henry Cowell claims that technological advancements have brought machines closer to diminishing these unwanted noises, but have not been completely successful thus far.[5]
+
+In audio engineering it can also refer to the unwanted residual electronic noise signal that gives rise to acoustic noise heard as hiss. This signal noise is commonly measured using A-weighting or ITU-R 468 weighting.
+
+See also[edit]
+International Noise Awareness Day
+Association of Noise Consultants
+Background noise
+Noise and vibration on maritime vessels
+Noise music
+Noise in music
+Noise pollution
+Silence
+Soundscape
+The Hum

@@ -1,0 +1,122 @@
+Tram accident
+From Wikipedia, the free encyclopedia
+Crystal Clear app kedit.svg
+This article may need to be rewritten entirely to comply with Wikipedia's quality standards. You can help. The discussion page may contain suggestions. (November 2012)
+
+Collision between truck and tram on Sydney's original tram network
+A tram accident is any accident involving a tram. Alternatively, any accident involving a tram or a tram system may be considered a tram accident. The latter definition is more commonly used in public safety studies.
+
+Tram systems are typically considered to be environmentally friendly, efficient and cost effective methods of transport within urban areas. However, safety concerns associated with tram systems - particularly poor maneuverability and long braking distances - cannot be ignored.[1] The research indicates that for each kilometer traveled, trams are 12 times more likely to be involved in an accident than a car.[2]
+
+Limited information on tram accidents exists in scientific literature.
+
+Contents  [hide]
+1	Causes
+1.1	Tram Car Accidents
+1.2	Passenger Accidents
+1.3	Accidents Involving Public
+2	Analysis and consequences
+3	Safety measures
+4	Rescue tactics
+5	See also
+6	References
+7	External links
+Causes[edit]
+
+
+A tram running on tracks isolated from vehicle lanes in Helsinki, Finland. Tram driver safety against violence can be ensured with a good cabin and surveillance cameras[3]
+Tram Car Accidents[edit]
+The tram car may be damaged during derailment or collision with other vehicles or pedestrians. Tram derailments are often caused by damaged track, collisions with obstacles, junction failures, or excessive speed at a junction or curve. Additionally, collisions may occur between trams due to faulty junctions or poor driving.
+
+Vandalism within tram cars may also be a concern. Finally, the tram car may catch fire or explode due to faulty equipment.
+
+Passenger Accidents[edit]
+Trams coming to a sudden stop may cause injuries to passengers on board. Passengers may also slip, trip or fall on the tram or the tram platform. Blind passengers are particularly at risk of falling off a tram or, despite safety systems, getting injured by closing doors. In areas of overcrowded tram systems, illegal passengers are in danger of falling off or being trapped between tram cars. Fire aboard a tram puts passengers at risk of severe injury or death.
+
+Furthermore, passengers may be at risk of robbery or assault aboard a tram or at a tram stop. Other accidents involving passengers may include being struck by a car while exiting the tram or while waiting at a tram platform. Such incidents are often taken into account during Tram public safety studies.
+
+Accidents Involving Public[edit]
+While collisions with cars are the most common form of tram accident, cyclists and pedestrians are the group most at risk of death during tram collisions. Cyclists may experience a loss of control if bicycle tires get jammed in tramway tracks.[4] More rarely, members of the public may also climb over a tram car, or in other ways get in contact with the electric conductors or other electric appliances of a tram, and receive an electric shock.
+
+Within certain localities, Alcohol consumption appears to be a major confounding factor. In Göteborg, Sweden an estimated 60% of fatally injured victims were under the influence of alcohol.[5]
+
+Analysis and consequences[edit]
+In Sheffield, UK, cyclists appear to be the group at highest risk to be injured in tram accidents, followed by pedestrians and motor vehicle users.[6] In Sheffield, less than one third of casualties had a fracture, and approximately every tenth injured person had a hospital admission. In Göteborg, the incidence of non-fatal injuries was 3 per million tramcar-kilometres, and the mortality was 0.2 per million tramcar kilometres. Two of 16 fatalities and 1 of 217 non-fatally injury events in 1988 - 1992 were suicide attempts. The most fatal tram accident in Göteborg happened when a high-speed runaway tram hit dozens of pedestrians and several vehicles. The accident happened after a technician manually released the brakes automatically activated after a power failure.[7]
+
+
+Emergency brake and emergency hammer near a tram door.
+
+A protective shield in front of a tram. When a person hits the detector (yellow arrow), a shield (red arrow) is launched which prevents the person from getting under the wheels.
+
+Unburnable, round shaped, flexible and/or impact absorbing materials are used in the tram interiors.
+
+Some safety measures in a tram door.
+
+Some details on safety planning of a tram stop.
+The mortality of pedestrians hit by a tram seems to be much higher than the mortality of pedestrians hit by a motor vehicle. Typically most seriously injured people have been caught under or between tramcars.[5] Non-impact absorbing parts at the side of the trams may lead to serious head injuries even at low speeds.[8] In Austria, accidents of children at bus or tram stops were analyzed over a 6-year period. 6 children were injured by trams. Accidents happened while crossing the track, one child ran against a tram, one child was crossing at a crosswalk or looked at wrong traffic lights. Most of the children hit the side of the tram. In addition, 4 children were injured by a car at a tram stop.[8] In Germany, 18 pedestrians with multiple traumas after tram accidents were evaluated with Multidetector computed tomography.[9] The mean age was 36.9 years with a range from 14–92 years. There was a trend for accident events occurring more commonly during the winter months in middle-aged men, often under the influence of alcohol. In this study, leading diagnoses were head (83.3%) and thorax injuries (66.6%). Abdominal injuries (44.4%) were mainly found patients with complex injuries. The most serious injuries occurred when a victim was caught under or between tramcars.
+
+In the 1990s in Oslo, Norway, tram transport amounted to 3 million vehicle-kilometers per year with approx. 25 – 30 collisions with pedestrians or bicyclists, 60 accidents with travelers on board the tram or during boarding/leaving, and 600 collisions with cars. In 1982–1995 there were 10 fatalities of the pedestrians, mostly when a pedestrian stepped into the street without noticing the approaching tram, very often against red traffic light. Another common accident was a pedestrian crossing the street so close to the front of a stationary tram that he was not observed by the driver. 30% of collisions with cars happened with stationary cars stopped or parked too close to the tram tracks. 10% of collisions happened between trams and buses, and remaining 60% of collisions happened mostly with moving cars. This report analyzed 200 accident reports. It was recognized that more than half of the collisions between tram and car were caused by errors by the car driver only. 25% of the accidents were caused due to an error by tram driver. 25% of the accidents were caused by more complex causal patterns. About 2/3 of pedestrian accidents were caused by errors of the pedestrian only, tram driver error was very seldom the main cause. For passengers falling in the tram, errors by other road users were an important causal factor, necessitating the heavy braking of the tram. In addition, fewer accidents seemed to happen with older tram drivers and on tracks segregated from other traffic.[10]
+
+In Victoria, Australia, injuries among adults 65 years and over were investigated. While falls (3382 cases) were mentioned as the major feature of injury, two adults were hit by a car when crossing a road to a tram.[11] In the Department of Forensic Medicine in Bydgoszcz, Poland, 81 autopsies were performed on people who died in accidents involving rail vehicles in 1992-2002.[12] 20% of the victims died in tram accidents, and 80% died in train accidents. The most common reason for death was a multiorgan failure. In tram accidents, 86% of the victims were male. The victims of tram accidents did not suffer injuries of the highest severity like amputations.
+
+In Helsinki, Finland, more than 200 collisions happened between trams and vehicles in 2009. Most of the accidents happened when a car driver turned his vehicle in front of a tram. 29 persons were injured, but no one died. If all small touches between trams and car mirrors are included, 347 accidents happened in 2009.[13] Helsinki is a city of approx. 590 000 inhabitants, 9 tram routes in the inner city, 130 tram, 49,5 kilometers of tram routes and approx. 200 000 passengers on tram per day.[14] These figures can be compared with the 5,37 million kilometres driven by trams in Helsinki in 2008.[15]
+
+In some countries accident investigation boards investigate all serious rail accidents and hazardous situations that may have led to a serious accident. These investigations are detailed analysis on the causes and consequences of the accidents. Investigations create information and recommendations to prevent further accidents. The investigations can be required by law. Systematic guides can determine minimum requirements for an analysis.
+
+An example of an accident analysis is a collision of two trams in Helsinki, Finland in 2008.[16] This 101-page analysis contains information on:
+
+- accident (place, time, type of vehicles, information on passengers, weather, injuries, damages, and communication)
+
+- investigation of railtrack, safety equipment, communications equipment, organizations, drivers and their education, rescue organizations, event recorders, voice recorders (emergency dispatch center, rescue organizations), regulations, recommendations, police investigation and other investigations
+
+- - analysis of the accident, accident scene, tram, driver, rescue work, and capacity of hospitals
+
+- conclusions (statements and causes of the accident)
+
+- measures that have been taken
+
+- recommendations and
+
+- references, testimonials, technical tests and measurements.
+
+In the accident in Helsinki 2008, two passengers were severely injured, and a tram driver and 22 passengers were slightly injured. The cause of the accident was that the driver of the tram approaching from behind was not able to stop the tram in time. The driver apparently tried to stop the tram via incorrect braking methods in the belief that the brakes were not working properly. The background factors were the driver’s inexperience, the possibility that the driver anticipated the tram ahead would leave the stop earlier, and driver’s suspicion that brakes were not working properly and therefore the use of the incorrect braking method. In order to prevent similar accidents, it was recommended that tram drivers be taught to brake in a proper way, and the drivers should be provided with a personalized and progressive training program with documented performance. It was also recommended that the tram floor hatches should be better fastened to prevent causing injuries to passengers, and trams should be equipped with a first aid kit.
+
+In addition, rail accident investigations can analyze previous occurrences of a similar character.[17]
+
+Some national authorities keep statistics on tramway incidents.[18][19] An example of an authority collecting accident and incident reports from national authorities is the European Railway Agency. The Agency has a public safety database on railway licences, certificates, safety indicators, national safety rules, and accident investigations.[20] In the European Union, the safety of railways has been regulated with directives, which also require e.g. the collection of common safety indicator statistics from member countries. In the EU, common safety methods (CSMs) and common safety targets (CSTs) have been set for European railways.
+
+Safety measures[edit]
+When evaluating general traffic safety, the safety of tram lines, train and tram crossings are mentioned to be an area deserving special attention.[21] Injury-reducing measures in the vehicle design and in the traffic area, especially at and near tram stops, might reduce the injuries caused by trams.[22] The trams, tracks, and the environment of a tram systems should be physically planned as safely as possible. Even physical structures should be safe and minimize damage in case of accidents. Various kind of stress factors and forces should be calculated and assessed to create a tram system with diminished possibility of structural failures, derailments etc. In case a tram rides in a tunnel or on a bridge, various fire, derailment, and entrapment safety measures should be thought about.
+
+
+Picture 9. Safety measures when a tramway track merges with a vehicle lane.
+Structural design of trams can minimize the risks to tram drivers, tram passengers, pedestrians, and passengers in other vehicles in various kinds of tram-to-tram, tram-to-vehicle, and tram-to-pedestrian collisions.[23] A European standard is being prepared for crashworthiness for railway vehicle bodies.[24] The trams may contain emergency brakes. Protective shields in the front of the tram, "catching" people, avoid them getting underneath the tram (see an emergency hammer in picture 4 and a catcher in picture 5). In Toronto the CLRV streetcars have a skirt added to the front of the car covering the coupler. It was added to prevent passengers from being dragged under the car's wheels. Trams should be designed to have impact absorbing materials in front and side constructions. Lifting points can be marked for fire brigades to help rescuers to find safe and strong enough parts of the tram when e.g. lifting a tram to rescue a patient underneath it. Inside the tram the structures should also contain impact absorbing materials and round shapes instead of sharp edges (see interior material in picture 5). Automatic door controlling sensors decrease the possibility of entrapment injuries (see a tram door in picture 7). Handrails may prevent people falling in acceleration, curves and braking. Especially elderly people need seats and time to find one and sit before the tram moves. Trams can contain fire safe materials like low smoke and halogen-free cables, driver's vigilance control systems, and programmable logic speed controllers.[25]
+
+The fire brigades may carry special tools for tram accidents, like heavy extrication tools, grounding equipment, and hydraulic lifting jacks for trams. Some trams are able to drop some sand on the rails to increase the friction during emergency braking. Interestingly, the most slippery season for trams is not necessarily an icy winter, but seasons when leaves fall from trees. A brush car can be used to clear the rails.[26]
+
+
+A warmed tramway junction.
+A quality system may guide the safety of a tram system. A tram system may have a control centre following the trams, having radio contact with the drivers, and ability to contact and guide guards, emergency dispatch centre, or repair patrols. A tram typically carries first aid kit, a radio and/or a phone, some tools, and a fire extinguisher. Basic first aid, prodromic driving manners, safety courses, and protocols to follow in an accident are taught to tram drivers. Some organizations may test the drivers for alcohol and/or drugs regularly, occasionally, and/or in case of suspicion to avoid driving under the influence. Also the health of the drivers can be assessed regularly or in case of need. Some organizations can also give education to drivers and re-evaluate their skills and manners regularly. Also rescue organizations can be informed on tram structures, electricity, risks, and specific rescue and firefighting tactics concerning trams. Rescue organizations can also train with trams in simulated accident and firefighting situations.
+
+Various cities and traffic companies have given safety and traffic instructions for passengers, pedestrian, wheelchair users, cyclists, and motorists.[27][28][29] These instructions tell how to behave in traffic to avoid accidents. For example, the instructions advise not to obstruct the tramway, suggest motorists avoid driving directly on the track, and tell the pedestrians to use designated crossways and to look both ways before crossing the tracks. Local tram regulations may give requirements for the passengers e.g. not to carry flammable, soiling or destructive chemicals or too space-blocking packages in trams.[30] Enlightenment of children and adults can be done also by using games and test.[31]
+
+
+Lifting points marked near the bogie of a tram (red arrows). Notice the yellow light increasing the visibility of the tram on its sides.
+Some cities or areas have systemically developed new safety systems and planned new, safer tram stops even in new locations (see a tram stop in picture 7). These measures have included e.g. accessible tram stops, safety staff, road-based improvements like speed humps near tram stops, better lighting of tram stops, raised dividing strips to separate trams and motorists, traffic light sequence changes, and electronic flashing "give way to trams" signs to warn other traffic in places where necessary (see warning signs in picture 9).[32][33][34][35]
+
+Naturally the state of traffic legislation, traffic culture, and safety culture in the tram and traffic system may have an influence on tram accidents. Tram stops can be separated with barriers from the street.[8] Speed limits can be used near the tram stops, and strips painted between tram tracks.[36] Tram lanes can be also separated from other traffic. Trams may have their own traffic lights, which are integrated to work with normal traffic lights and stop the traffic when a tram stops at a tram stop. In some areas the junctions are warmed during winter to avoid ice and snow disturbing the functioning of the junction (see a warmed junction in picture 10). Tracks, junctions, trams, tram traffic lights etc. should be regularly inspected and maintained.
+
+Rescue tactics[edit]
+
+Tram overhead lines and various electrical devices create risks in rescue operations. Heavy weight and structures of trams also require heavy tools and good rescue skills.
+In tram accidents, overhead lines and various electrical devices in a tram can create a risk in firefighting and rescue operations (see overhead lines in picture 12). Among the first missions in an accident is prevention of further accidents, additional damages and injuries (see an accident scene in gallery picture 1). The emergency dispatch centers may have strategies and emergency response guides prepared for various kinds of tram accidents. The response guides can contain information on e.g. what emergency response units (police, ambulance, fire apparatus, investigation units etc.) are sent to the accident scene in various kind of accidents (fire, derailment, collision, pedestrian hit by a tram etc.). Also hospitals can be alerted in major accidents.
+
+At the accident scene, a ground connection is used to prevent electric shocks from overhead lines (see an emergency ground connection in gallery picture 2). The accident scene is isolated, and police or fire brigade controls the traffic. The accident scene is surveyed, and in the case of several injured persons, a triage process or other recognition of patients’ states is done. The most critically injured patients get more, faster, and better quality attention and treatment. In the case of a patient underneath a tram, lifting bags or hydraulic jacks brought by fire brigades can be used to elevate the tram and release the patient (see lifting points in picture 10) and a tow car lifting a tram in gallery picture 3). A crane can be used to lift a tram, too, or an overturned tram. If a patient is trapped inside crushed structures, various kinds of extrication tools, like hydraulic spreaders, rams, cutters, and circular saws can be used. In some cases, it is also possible to drive the tram backwards, but in most cases this would only cause more injuries to the victim. While cutting, lifting or turning an overturned tram or vehicle, structures often have to be stabilized to avoid the movement of the vehicle, to prevent the risk of movements of suspension, and to avoid falling of lifted vehicles on the patient or the members of the rescue crew.
+
+
+A truck with crane and drawbar for pulling, enrailing and shunting trams in Munich, Germany.
+Cranes, tow trucks, hydraulic jacks and rollers can be used to move a derailed tram back to its rails (see a roller and winching in gallery picture 4 and gallery picture 5).
+
+After the patients have been treated and transported, a police investigation on the scene continues. The victims and witnesses can be interviewed on the scene, or later. After investigation the vehicles which collided are allowed to be moved from the scene. In severe accidents, special traffic or accident investigation boards may analyze the accident and its consequences, and give recommendations to improve safety in traffic. After the accident, the accident scene should be cleaned. The tram, the tracks and the overhead lines may need repair (see gallery picture 6, gallery picture 7, and gallery picture 8).
+
+In Helsinki, Finland, the emergency dispatch center automatically sends a special tram rescue unit in case of tram fires and serious tram accidents.[37] The unit is able to operate also in flood and snow. Tram rescue units are typically built for various kind of rescue operations, to move automobiles parked on tram tracks, and to tow and derail trams (see a German tram towtruck in picture 13).

@@ -1,0 +1,35 @@
+Accident analysis
+From Wikipedia, the free encyclopedia
+Accident analysis is carried out in order to determine the cause or causes of an accident or series of accidents so as to prevent further incidents of a similar kind. It is also known as accident investigation. It may be performed by a range of experts, including forensic scientists, forensic engineers or health and safety advisers. Accident investigators, particularly those in the aircraft industry, are colloquially known as "tin-kickers".[1]
+
+Contents  [hide]
+1	Sequence
+2	Methods
+3	Models
+4	Using digital photographs to extract evidence
+5	See also
+6	Footnotes
+7	References
+8	External links
+Sequence[edit]
+Accident analysis is performed in four steps:
+
+Fact gathering: After an accident happened a forensic process starts to gather all possibly relevant facts that may contribute to understanding the accident.
+Fact Analysis: After the forensic process has been completed or at least delivered some results, the facts are put together to give a "big picture." The history of the accident is reconstructed and checked for consistency and plausibility.
+Conclusion Drawing: If the accident history is sufficiently informative, conclusions can be drawn about causation and contributing factors.
+Counter-measures: In some cases the development of counter-measures is desired or recommendations have to be issued to prevent further accidents of the same kind.
+Methods[edit]
+There exist numerous forms of Accident Analysis methods. These can be divided into three categories:
+
+Causal Analysis uses the principle of causality to determine the course of events. Though people casually speak of a "chain of events", results from Causal Analysis usually have the form of directed a-cyclic graphs – the nodes being events and the edges the cause-effect relations. Methods of Causal Analysis differ in their respective notion of causation.
+Expert Analysis relies on the knowledge and experience of field experts. This form of analysis usually lacks a rigorous (formal/semiformal) methodological approach. This usually affects falsify-ability and objectivity of analyses. This is of importance when conclusions are heavily disputed among experts.
+Organizational Analysis relies on systemic theories of organization. Most theories imply that if a system's behaviour stayed within the bounds of the ideal organization then no accidents can occur. Organizational Analysis can be falsified and results from analyses can be checked for objectivity. Choosing an organizational theory for accident analysis comes from the assumption that the system to be analysed conforms to that theory.
+Models[edit]
+Many models have been described to characterise and analyse accidents. A list of many of the models, with references, is available here:.[2]
+
+Using digital photographs to extract evidence[edit]
+Once all available data has been collected by accident scene investigators and law enforcement officers, camera matching, photogrammetry or rectification can be used to determine the exact location of physical evidence shown in the accident scene photos.
+
+Camera matching: Camera matching uses accident scene photos that show various points of evidence. The technique uses CAD software to create a 3-dimensional model of the accident site and roadway surface. All survey data and photos are then imported into a three dimensional software package like 3D Studio Max. A virtual camera can be then be positioned relative to the 3D roadway surface. Physical evidence is then mapped from the photos onto the 3D roadway to create a three dimensional accident scene drawing.
+Photogrammetry: Photogrammetry is used to determine the three-dimensional geometry of an object on the accident scene from the original two dimensional photos. The photographs can be used to extract evidence that may be lost after the accident is cleared. Photographs from several viewpoints are imported into software like PhotoModeler. The forensic engineer can then choose points common to each photo. The software will calculate the location of each point in a three dimensional coordinate system.
+Rectification: Photographic rectification is also used to analyze evidence that may not have been measured at the accident scene. Two dimensional rectification transforms a single photograph into a top-down view. Software like PC-Rect can be used to rectify a digital photograph.[3]

@@ -1,0 +1,98 @@
+Bicycle safety
+From Wikipedia, the free encyclopedia
+
+This article contains instructions, advice, or how-to content. The purpose of Wikipedia is to present facts, not to train. Please help improve this article either by rewriting the how-to content or by moving it to Wikiversity, Wikibooks or Wikivoyage. (May 2015)
+
+Bike slalom at bottom of ramp, intended to discourage speeding out into open road
+
+Bicycle with a child safety seat
+Bicycle safety is the use of practices designed to reduce risk associated with cycling. The risk can be defined as the number of incidents occurring for a given amount of cycling. In many countries both the number of incidents and the amount of cycling (expressed in kilometers, hours or trips) are not well known. Non-fatal accidents often go unreported and bicycle use is only occasionally monitored.[1] Some of this subject matter is hotly debated: for example, the discussions as to whether bicycle helmets or cyclepaths really deliver improved safety. The merits of obeying the rules of the road including the use of bicycle lighting at night are less controversial.
+
+Contents  [hide]
+1	Crashes
+2	Promoting safety
+2.1	Cycle Safe Signs
+2.2	Traffic engineering
+2.3	Equipment
+2.3.1	Helmets
+2.3.2	Lights
+2.3.3	Audible signaling
+2.4	Primary safety
+2.5	Motorist education
+3	Rural safety
+4	Overuse-related health problems
+5	See also
+6	Notes
+7	References
+8	External links
+Crashes[edit]
+The first recorded bicycle crash occurred in 1842, reportedly between Kirkpatrick McMillan, an early rider of the velocipede, and a young girl in Glasgow. The report, however, is vague and the identification disputed.[citation needed]
+
+
+A cyclepath with a protruding wall covering a private street. Rampant climbing plants obstruct the sight of cyclists even more.
+
+The same cyclepath seen from the persprective of a resident who leaves the premises by car or bicycle. The rampant climbing plants make it impossible to see approaching cyclists on time.
+Causes of crashes vary according to local conditions. A study conducted in 2000 by the Institute for Road Safety Research in the Netherlands found that single bicycle crashes accounted for 47% of all bicycle crashes, collisions with obstacles and animals accounted for 12%, and collisions with other road users accounted for 40%, with the remaining 1% having unknown or unclassified cause.[citation needed] Many bicycle crashes are unreported and therefore not included in official statistics. Prospective studies estimate that less than 10% of bicycle crashes are officially reported.[2]
+
+In the United Kingdom, cyclists have half of the rate (killed and serious injury per km) of motorcyclists but eight times the rate for motorists.[3]
+
+Even minor bicycle crashes not involving hospitalisation can incur significant costs for the cyclist and others. The Belgian SHAPES project has recently estimated the cost at 0.12 euros per kilometre cycled.[4]
+
+A cyclist who is hit by a car is more likely to be killed than one who just falls off.[5]
+
+Promoting safety[edit]
+As long ago as the early 1930s there were efforts to clear cyclists off the roads to make way for private cars, then largely a preserve of the elite. These were successful in Germany, then an authoritarian regime, and spread during the war to German-occupied countries such as the Netherlands where civilian motor transport was also crippled by fuel rationing, but was resisted in other countries.[citation needed]
+
+Cycle Safe Signs[edit]
+In addition to traffic engineering, signage is increasingly used to try to prevent collisions between cyclists and motor vehicles. In the UK, following increased pressure from The Times "Cities Fit For Cycling" campaign and from other media in Spring 2012 to reduce collisions between large vehicles and cyclists, warning signs are now displayed on the backs of many HGVs. These signs are directed against a common type of accident which occurs when the large vehicle turns left at a junction: a cyclist trying to pass on the nearside can be crushed against the HGV's wheels, especially if the driver cannot see the cyclist. The signs, such as the winning design of the InTANDEM road safety competition launched in March 2012, advocate extra care when passing a large vehicle on the nearside.
+
+Traffic engineering[edit]
+During the mid-20th century, the traffic engineering solutions were sought which eased the passage of traffic through the streets, and also protected vulnerable road users.[6] In the 1940s, an influential proponent of this ideology was Herbert Alker Tripp, an assistant commissioner of London's Metropolitan Police.[6] Tripp argued in his book Town Planning and Road Traffic that: "If we could segregate pedestrians completely from the wheeled traffic, we could of course abolish pedestrian casualties".[7]
+
+This philosophy was also pursued by Colin Buchanan; his 1963 report for the UK Government Traffic in Towns, defined future government policy[6] until the end of the century. Buchanan knew that segregation had not been proven to work for cyclists: his 1958 book Mixed Blessing said: "The meagre efforts made to separate cyclists from motor traffic have failed, tracks are inadequate, the problem of treating them at junctions and intersections is completely unsolved, and the attitude of the cyclists themselves to these admittedly unsatisfactory tracks has not been as helpful as it might have been".[8]
+
+Appropriately designed segregated space for cyclists on arterial or interurban routes appears to reduce overall risk. In Ireland, the provision of hard shoulders on interurban routes in the 1970s reportedly resulted in a 50% decrease in accidents.[9] It is reported that the Danes have also found that separate cycle tracks lead to a reduction in rural collisions.[10]
+
+In urban areas, contraflow cycling has recently been shown to reduce cycling accident risk. Contraflow cycling is often assumed to be associated with higher accidents risks, but where it has been properly evaluated, contraflow cycling actually seems to reduce the accidents risk.[11]
+
+Equipment[edit]
+Helmets[edit]
+Main article: Bicycle helmet
+Helmet use varies from almost none in some regions to being mandatory for children to being mandatory for all cyclists. Helmets are required in most races. Helmets might help prevent head injuries, but laws that enforce helmet use seem to reduce cycling, which in turns makes cycling more dangerous.[12]
+
+
+It is important to use lights to be visible in dark. Cyclists in Paide, Estonia.
+Lights[edit]
+Main article: Bicycle lighting
+Headlights and taillights may be mounted on the bicycle or worn by the cyclist. Lights may also be mounted on the wheels.
+
+Bicycle lights can be powered by replaceable batteries, charged to an internal battery - from a USB connection or mains - or powered by a hub dynamo that stores energy generated by the wheels.
+
+Since cycling lights are typically of lower power than those on motor vehicles, cycling lights are ineffective unless aimed straight forward (white front light) and straight back (red rear light) and parallel to the road. Lights mounted on a belt or bag cannot be consistently aimed in this way. Therefore, in order to be effective, the lights must be securely attached to the bicycle and properly aimed. In the US, state and local ordinances usually require this.
+
+Audible signaling[edit]
+Main article: Bicycle bell
+Bells or other audible signalling devices are required equipment in many jurisdictions.
+
+Primary safety[edit]
+Primary safety education has advanced significantly through programmes such as Effective Cycling and the development of Britain's new National Standards for cycle training. In addition to technical improvements in brakes, tyres and bicycle construction generally (for example, it is now rare for a chain to snap and throw the rider when accelerating away from a stop) there are well-understood behavioural models which actively manage the risk posed by other road users.
+
+Cycling experts such as the UK's John Franklin emphasise the importance of assertive cycling and good road positioning. Franklin advocates the use of road positions that will give cyclists a good view of the road, will make cyclists visible to other road-users, and will discourage risky behaviour by other road users; he often advocates the use of a centre-of-lane 'primary riding position' when negotiating hazards.[13]
+
+Motorist education[edit]
+Motorists in the Netherlands and Canada who go through driving education are trained to reach across their bodies when opening automobile doors to exit. This encourages the motorist to turn to get a clear view of any cyclist approaching the vehicle from behind who might collide with an opened door.[14][note 1]
+
+Rural safety[edit]
+Direct rear impacts with cyclists are a more prominent collision type in arterial/rural road type situations. When they occur in such circumstances they are also associated with significantly increased risk of fatality. Data collated by the OECD indicates that rural locations account for 35% or more of cycling fatalities in Denmark, Finland, France, Great Britain, Japan, the Netherlands, and Spain.[15]
+
+Overuse-related health problems[edit]
+See also: Cycling § Overuse injuries
+In addition to injuries from collisions and falls, cyclists can also suffer overuse injuries, such as injuries to the neck, knees, and back, and damage to nerves, blood vessels and genito-urinary systems in the weight-bearing areas in the seat and hands. Overuse injuries among cyclists are often caused or aggravated by poor bicycle fit or adjustment.
+
+See also[edit]
+Hazards of outdoor recreation
+List of cycling topics
+Bikeway safety
+Safety in numbers
+Vehicular cycling
+Motorcycle safety

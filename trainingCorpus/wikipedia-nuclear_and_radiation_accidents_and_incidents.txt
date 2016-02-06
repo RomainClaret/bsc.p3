@@ -1,0 +1,327 @@
+Nuclear and radiation accidents and incidents
+From Wikipedia, the free encyclopedia
+  (Redirected from Nuclear and radiation accidents)
+
+Following the 2011 Japanese Fukushima nuclear disaster, authorities shut down the nation's 54 nuclear power plants. As of 2013, the Fukushima site remains highly radioactive, with some 160,000 evacuees still living in temporary housing, and some land will be unfarmable for centuries. The difficult cleanup job will take 40 or more years, and cost tens of billions of dollars.[1][2]
+
+Pathways from airborne radioactive contamination to human
+
+The Kashiwazaki-Kariwa Nuclear Power Plant, a Japanese nuclear plant with seven units, the largest single nuclear power station in the world, was completely shut down for 21 months following an earthquake in 2007.[3]
+A nuclear and radiation accident is defined by the International Atomic Energy Agency (IAEA) as "an event that has led to significant consequences to people, the environment or the facility." Examples include lethal effects to individuals, large radioactivity release to the environment, or reactor core melt."[4] The prime example of a "major nuclear accident" is one in which a reactor core is damaged and significant amounts of radioactivity are released, such as in the Chernobyl disaster in 1986.
+
+The impact of nuclear accidents has been a topic of debate practically since the first nuclear reactors were constructed in 1954. It has also been a key factor in public concern about nuclear facilities.[5] Some technical measures to reduce the risk of accidents or to minimize the amount of radioactivity released to the environment have been adopted. Despite the use of such measures, human error remains, and "there have been many accidents with varying impacts as well near misses and incidents".[5][6]
+
+Worldwide there have been 99 accidents at nuclear power plants.[7] Fifty-seven accidents have occurred since the Chernobyl disaster, and 57% (56 out of 99) of all nuclear-related accidents have occurred in the USA.[7] Serious nuclear power plant accidents include the Fukushima Daiichi nuclear disaster (2011), Chernobyl disaster (1986), Three Mile Island accident (1979), and the SL-1 accident (1961).[8]
+
+Nuclear-powered submarine core meltdown and other mishaps include the K-19 (1961), K-11 (1965), K-27 (1968), K-140 (1968), K-429 (1970), K-222 (1980), K-314 (1985), and K-431 (1985).[8][9][10] Serious radiation accidents include the Kyshtym disaster, Windscale fire, radiotherapy accident in Costa Rica,[11] radiotherapy accident in Zaragoza,[12] radiation accident in Morocco,[13] Goiania accident,[14] radiation accident in Mexico City, radiotherapy unit accident in Thailand,[15] and the Mayapuri radiological accident in India.[15]
+
+The IAEA maintains a website reporting recent accidents.[16]
+
+Contents  [hide]
+1	Nuclear power plant accidents
+2	Nuclear reactor attacks
+3	Radiation and other accidents and incidents
+4	Worldwide nuclear testing summary
+5	Trafficking and thefts
+6	Accident categories
+6.1	Nuclear meltdown
+6.2	Criticality accidents
+6.3	Decay heat
+6.4	Transport
+6.5	Equipment failure
+6.6	Human error
+6.7	Lost source
+7	Comparisons
+8	Nuclear safety
+9	See also
+10	References
+11	Further reading
+12	External links
+Nuclear power plant accidents[edit]
+
+The abandoned city of Prypiat, Ukraine, following the Chernobyl disaster. The Chernobyl nuclear power plant is in the background.
+See also: Nuclear reactor accidents in the United States and List of nuclear and radiation fatalities by country
+One of the worst nuclear accidents to date was the Chernobyl disaster which occurred in 1986 in Ukraine. The accident killed 31 people directly and damaged approximately $7 billion of property. A study published in 2005 estimates that there will eventually be up to 4,000 additional cancer deaths related to the accident among those exposed to significant radiation levels.[17] Radioactive fallout from the accident was concentrated in areas of Belarus, Ukraine and Russia. Approximately 350,000 people were forcibly resettled away from these areas soon after the accident.[17]
+
+Benjamin K. Sovacool has reported that worldwide there have been 99 accidents at nuclear power plants from 1952 to 2009 (defined as incidents that either resulted in the loss of human life or more than US$50,000 of property damage, the amount the US federal government uses to define major energy accidents that must be reported), totaling US$20.5 billion in property damages.[7] Fifty-seven accidents have occurred since the Chernobyl disaster, and almost two-thirds (56 out of 99) of all nuclear-related accidents have occurred in the US. There have been comparatively few fatalities associated with nuclear power plant accidents.[7]
+
+Nuclear power plant accidents and incidents
+with multiple fatalities and/or more than US$100 million in property damage, 1952-2011[7][17][18]
+Date	Location of accident	Description of accident or incident	Dead	Cost
+($US
+millions
+2006 )	INES
+level[19]
+September 29, 1957	Mayak, Kyshtym, Russia	The Kyshtym Nuclear disaster was a radiation contamination incident that occurred at Mayak, a Nuclear fuel reprocessing plant in the Soviet Union.			6
+July 26, 1957	Simi Valley, California, United States	Partial core meltdown at Santa Susana Field Laboratory’s Sodium Reactor Experiment.	0	32
+October 10, 1957	Sellafield, Cumberland, United Kingdom	A fire at the British atomic bomb project destroyed the core and released an estimated 740 terabecquerels of iodine-131 into the environment. A rudimentary smoke filter constructed over the main outlet chimney successfully prevented a far worse radiation leak and ensured minimal damage.	0		5
+January 3, 1961	Idaho Falls, Idaho, United States	Explosion at SL-1 prototype at the National Reactor Testing Station. All 3 operators were killed when a control rod was removed too far.	3	22	4
+October 5, 1966	Frenchtown Charter Township, Michigan, United States	Partial core meltdown of the Fermi 1 Reactor at the Enrico Fermi Nuclear Generating Station. No radiation leakage into the environment.	0	132[20]
+January 21, 1969	Lucens reactor, Vaud, Switzerland	On January 21, 1969, it suffered a loss-of-coolant accident, leading to a partial core meltdown and massive radioactive contamination of the cavern, which was then sealed.	0		4
+1975	Sosnovyi Bor, Leningrad Oblast, Russia	There was reportedly a partial nuclear meltdown in Leningrad nuclear power plant reactor unit 1.
+December 7, 1975	Greifswald, East Germany	Electrical error causes fire in the main trough that destroys control lines and five main coolant pumps	0	443	3
+January 5, 1976	Jaslovské Bohunice, Czechoslovakia	Malfunction during fuel replacement. Fuel rod ejected from reactor into the reactor hall by coolant (CO2).[21]	2		4
+February 22, 1977	Jaslovské Bohunice, Czechoslovakia	Severe corrosion of reactor and release of radioactivity into the plant area, necessitating total decommission	0	1,700	4
+March 28, 1979	Three Mile Island, Pennsylvania, United States	Loss of coolant and partial core meltdown due to operator errors. There is a small release of radioactive gases. See also Three Mile Island accident health effects.	0	2,400	5
+September 15, 1984	Athens, Alabama, United States	Safety violations, operator error, and design problems force a six-year outage at Browns Ferry Unit 2.	0	110
+March 9, 1985	Athens, Alabama, United States	Instrumentation systems malfunction during startup, which led to suspension of operations at all three Browns Ferry Units	0	1,830
+April 11, 1986	Plymouth, Massachusetts, United States	Recurring equipment problems force emergency shutdown of Boston Edison’s Pilgrim Nuclear Power Plant	0	1,001
+April 26, 1986	Chernobyl disaster, Ukrainian SSR	Overheating, steam explosion, fire, and meltdown, necessitating the evacuation of 300,000 people from Chernobyl and dispersing radioactive material across Europe (see Chernobyl disaster effects)	56 direct;
+4,000 to
+985,000
+cancer[22][23]	6,700	7
+May 4, 1986	Hamm-Uentrop, West Germany	Experimental THTR-300 reactor releases small amounts of fission products (0.1 GBq Co-60, Cs-137, Pa-233) to surrounding area	0	267
+March 31, 1987	Delta, Pennsylvania, United States	Peach Bottom units 2 and 3 shutdown due to cooling malfunctions and unexplained equipment problems	0	400
+December 19, 1987	Lycoming, New York, United States	Malfunctions force Niagara Mohawk Power Corporation to shut down Nine Mile Point Unit 1	0	150
+March 17, 1989	Lusby, Maryland, United States	Inspections at Calvert Cliff Units 1 and 2 reveal cracks at pressurized heater sleeves, forcing extended shutdowns	0	120
+March 1992	Sosnovyi Bor, Leningrad Oblast, Russia	An accident at the Sosnovy Bor nuclear plant leaked radioactive gases and iodine into the air through a ruptured fuel channel.
+February 20, 1996	Waterford, Connecticut, United States	Leaking valve forces shutdown Millstone Nuclear Power Plant Units 1 and 2, multiple equipment failures found	0	254
+September 2, 1996	Crystal River, Florida, United States	Balance-of-plant equipment malfunction forces shutdown and extensive repairs at Crystal River Unit 3	0	384
+September 30, 1999	Ibaraki Prefecture, Japan	Tokaimura nuclear accident killed two workers, and exposed one more to radiation levels above permissible limits.	2	54	4
+February 16, 2002	Oak Harbor, Ohio, United States	Severe corrosion of control rod forces 24-month outage of Davis-Besse reactor	0	143	3
+August 9, 2004	Fukui Prefecture, Japan	Steam explosion at Mihama Nuclear Power Plant kills 4 workers and injures 7 more	4	9	1
+July 25, 2006	Forsmark, Sweden	An electrical fault at Forsmark Nuclear Power Plant caused one reactor to be shut down	0	100	2
+March 12, 2011	Fukushima, Japan	A tsunami flooded and damaged the 5 active reactor plants drowning two workers. Loss of backup electrical power led to overheating, meltdowns, and evacuations.[24] One man died suddenly while carrying equipment during the clean-up.	2+		7[25]
+12 September 2011	Marcoule, France	One person was killed and four injured, one seriously, in a blast at the Marcoule Nuclear Site. The explosion took place in a furnace used to melt metallic waste.	1
+Nuclear reactor attacks[edit]
+Main article: Vulnerability of nuclear plants to attack
+The vulnerability of nuclear plants to deliberate attack is of concern in the area of nuclear safety and security. Nuclear power plants, civilian research reactors, certain naval fuel facilities, uranium enrichment plants, fuel fabrication plants, and even potentially uranium mines are vulnerable to attacks which could lead to widespread radioactive contamination. The attack threat is of several general types: commando-like ground-based attacks on equipment which if disabled could lead to a reactor core meltdown or widespread dispersal of radioactivity; and external attacks such as an aircraft crash into a reactor complex, or cyber attacks.[26]
+
+The United States 9/11 Commission has said that nuclear power plants were potential targets originally considered for the September 11, 2001 attacks. If terrorist groups could sufficiently damage safety systems to cause a core meltdown at a nuclear power plant, and/or sufficiently damage spent fuel pools, such an attack could lead to widespread radioactive contamination. The Federation of American Scientists have said that if nuclear power use is to expand significantly, nuclear facilities will have to be made extremely safe from attacks that could release massive quantities of radioactivity into the community. New reactor designs have features of passive nuclear safety, which may help. In the United States, the NRC carries out "Force on Force" (FOF) exercises at all Nuclear Power Plant (NPP) sites at least once every three years.[26]
+
+Nuclear reactors become preferred targets during military conflict and, over the past three decades, have been repeatedly attacked during military air strikes, occupations, invasions and campaigns.[27] Various acts of civil disobedience since 1980 by the peace group Plowshares have shown how nuclear weapons facilities can be penetrated, and the group's actions represent extraordinary breaches of security at nuclear weapons plants in the United States. The National Nuclear Security Administration has acknowledged the seriousness of the 2012 Plowshares action. Non-proliferation policy experts have questioned "the use of private contractors to provide security at facilities that manufacture and store the government's most dangerous military material".[28] Nuclear weapons materials on the black market are a global concern,[29][30] and there is concern about the possible detonation of a small, crude nuclear weapon by a militant group in a major city, with significant loss of life and property.[31][32]
+
+The number and sophistication of cyber attacks is on the rise. Stuxnet is a computer worm discovered in June 2010 that is believed to have been created by the United States and Israel to attack Iran's nuclear facilities. It switched off safety devices, causing centrifuges to spin out of control.[33] The computers of South Korea's nuclear plant operator (KHNP) were hacked in December 2014. The cyber attacks involved thousands of phishing emails containing malicious codes, and information was stolen.[34]
+
+Radiation and other accidents and incidents[edit]
+See also: List of civilian radiation accidents and List of nuclear weapons tests of the United States
+
+Dr. Joseph G. Hamilton was the primary researcher for the human plutonium experiments done at U.C. San Francisco from 1944 to 1947.[35] Hamilton wrote a memo in 1950 discouraging further human experiments because the AEC would be left open "to considerable criticism," since the experiments as proposed had "a little of the Buchenwald touch."[36]
+
+One of four example estimates of the plutonium (Pu-239) plume from the 1957 fire at the Rocky Flats Nuclear Weapons Plant. Public protests and a combined Federal Bureau of Investigation and United States Environmental Protection Agency raid in 1989 stopped production at the plant.
+
+Corroded and leaking 55-gallon drum, for storing radioactive waste at the Rocky Flats Plant, tipped on its side so the bottom is showing.
+
+The Hanford site represents two-thirds of USA's high-level radioactive waste by volume. Nuclear reactors line the riverbank at the Hanford Site along the Columbia River in January 1960.
+
+The 18,000 km2 expanse of the Semipalatinsk Test Site (indicated in red), which covers an area the size of Wales. The Soviet Union conducted 456 nuclear tests at Semipalatinsk from 1949 until 1989 with little regard for their effect on the local people or environment. The full impact of radiation exposure was hidden for many years by Soviet authorities and has only come to light since the test site closed in 1991.[37]
+
+2007 ISO radioactivity danger symbol. The red background is intended to convey urgent danger, and the sign is intended to be used in long-term radioactive waste repositories, which might survive into a distant future where other danger symbols may be forgotten or misinterpreted.
+Serious radiation and other accidents and incidents include:
+
+1940s
+May 1945: Albert Stevens was the subject of a human radiation experiment, and was injected with plutonium without his knowledge or informed consent. Although Stevens was the person who received the highest dose of radiation during the plutonium experiments, he was neither the first nor the last subject to be studied. Eighteen people aged 4 to 69 were injected with plutonium. Subjects who were chosen for the experiment had been diagnosed with a terminal disease. They lived from 6 days up to 44 years past the time of their injection.[35] Eight of the 18 died within 2 years of the injection.[35] All died from their preexisting terminal illness, or cardiac illnesses. None died from the plutonium itself[citation needed]. Patients from Rochester, Chicago, and Oak Ridge were also injected with plutonium in the Manhattan Project human experiments.[35][38][39]
+6–9 August 1945: On the orders of President Harry S. Truman, a uranium-gun design bomb, Little Boy, was used against the city of Hiroshima, Japan. Fat Man, a plutonium implosion-design bomb was used against the city of Nagasaki. The two weapons killed approximately 120,000 to 140,000 civilians and military personnel instantly and thousands more have died over the years from radiation sickness and related cancers.
+August 1945: Criticality accident at US Los Alamos National Laboratory. Harry K. Daghlian, Jr., dies.[40]
+May 1946: Criticality accident at Los Alamos National Laboratory. Louis Slotin dies.[40]
+1950s
+February 13, 1950: a Convair B-36B crashed in northern British Columbia after jettisoning a Mark IV atomic bomb. This was the first such nuclear weapon loss in history.
+December 12, 1952: NRX AECL Chalk River Laboratories, Chalk River, Ontario, Canada. Partial meltdown, about 10,000 Curies released.[41] Approximately 1202 people were involved in the two year cleanup.[42] President Jimmy Carter was one of the many people that helped clean up the accident.[43]
+15/03/1953 – Mayak, Former Soviet Union. Criticality accident. Contamination of plant personnel occurred.[40]
+1954: The 15 Mt Castle Bravo shot of 1954 which spread considerable nuclear fallout on many Pacific islands, including several which were inhabited, and some that had not been evacuated.[44]
+March 1, 1954: Daigo Fukuryū Maru, 1 fatality.
+September 1957: a plutonium fire occurred at the Rocky Flats Plant, which resulted in the contamination of Building 71 and the release of plutonium into the atmosphere, causing US $818,600 in damage.
+21/04/1957 - Mayak, Former Soviet Union. Criticality accident in the factory number 20 in the collection oxalate decantate after filtering sediment oxalate enriched uranium. Six people received doses of 300 to 1,000 rem (four women and two men), one woman died.[40]
+September 1957: Kyshtym disaster: Nuclear waste storage tank explosion at Chelyabinsk, Russia. 200+ fatalities, believed to be a conservative estimate; 270,000 people were exposed to dangerous radiation levels. Over thirty small communities were removed from Soviet maps between 1958 and 1991.[45] (INES level 6)[19]
+October 1957: Windscale fire, UK. Fire ignites plutonium piles and contaminates surrounding dairy farms.[7][46] An estimated 33 cancer deaths.[7][46]
+1957-1964: Rocketdyne located at the Santa Susanna Field Lab, 30 miles north of Los Angeles, California operated ten experimental nuclear reactors. Numerous accidents occurred including a core meltdown. Experimental reactors of that era were not required to have the same type of containment structures that shield modern nuclear reactors. During the Cold War time in which the accidents that occurred at Rockedyne, these events were not publicly reported by the Department of Energy.[47]
+1958: Fuel rupture and fire at the National Research Universal reactor (NRU), Chalk River, Canada.
+10/02/1958 - Mayak, Former Soviet Union. Criticality accident in SCR plant. Conducted experiments to determine the critical mass of enriched uranium in a cylindrical container with different concentrations of uranium in solution. Staff broke the rules and instructions for working with YADM (nuclear fissile material). When SCR personnel received doses from 7600 to 13,000 rem. Three people died, one man got radiation sickness and went blind.[40]
+December 30, 1958: Cecil Kelley criticality accident at Los Alamos National Laboratory.[40][48]
+March 1959: Santa Susana Field Laboratory, Los Angeles, California. Fire in a fuel processing facility.
+July 1959: Santa Susana Field Laboratory, Los Angeles, California. Partial meltdown.
+1960s
+7 June 1960: the 1960 Fort Dix IM-99 accident destroyed a CIM-10 Bomarc nuclear missile and shelter and contaminated the BOMARC Missile Accident Site in New Jersey.
+24 January 1961: the 1961 Goldsboro B-52 crash occurred near Goldsboro, North Carolina. A B-52 Stratofortress carrying two Mark 39 nuclear bombs broke up in mid-air, dropping its nuclear payload in the process.[49][50]
+July 1961: soviet submarine K-19 accident. Eight fatalities and more than 30 people were over-exposed to radiation.[51]
+March, 21 -August 1962: radiation accident in Mexico City, four fatalities.
+May 1962: The Cuban Missile Crisis was a 13-day confrontation in October 1962 between the Soviet Union and Cuba on one side and the United States on the other side. The crisis is generally regarded as the moment in which the Cold War came closest to turning into a nuclear conflict[52] and is also the first documented instance of mutual assured destruction (MAD) being discussed as a determining factor in a major international arms agreement.[53][54]
+1964, 1969: Santa Susana Field Laboratory, Los Angeles, California. Partial meltdowns.
+1965 Philippine Sea A-4 crash, where a Skyhawk attack aircraft with a nuclear weapon fell into the sea.[55] The pilot, the aircraft, and the B43 nuclear bomb were never recovered.[56] It was not until the 1980s that the Pentagon revealed the loss of the one-megaton bomb.[57]
+October 1965: US CIA-led expedition abandons a nuclear-powered telemetry relay listening device on Nanda Devi [58]
+January 17, 1966: the 1966 Palomares B-52 crash occurred when a B-52G bomber of the USAF collided with a KC-135 tanker during mid-air refuelling off the coast of Spain. The KC-135 was completely destroyed when its fuel load ignited, killing all four crew members. The B-52G broke apart, killing three of the seven crew members aboard.[59] Of the four Mk28 type hydrogen bombs the B-52G carried,[60] three were found on land near Almería, Spain. The non-nuclear explosives in two of the weapons detonated upon impact with the ground, resulting in the contamination of a 2-square-kilometer (490-acre) (0.78 square mile) area by radioactive plutonium. The fourth, which fell into the Mediterranean Sea, was recovered intact after a 2½-month-long search.[61]
+January 21, 1968: the 1968 Thule Air Base B-52 crash involved a United States Air Force (USAF) B-52 bomber. The aircraft was carrying four hydrogen bombs when a cabin fire forced the crew to abandon the aircraft. Six crew members ejected safely, but one who did not have an ejection seat was killed while trying to bail out. The bomber crashed onto sea ice in Greenland, causing the nuclear payload to rupture and disperse, which resulted in widespread radioactive contamination.
+May 1968: Soviet submarine K-27 reactor near meltdown. 9 people died, 83 people were injured.[10] In August 1968, the Project 667 A - Yankee class nuclear submarine K-140 was in the naval yard at Severodvinsk for repairs. On August 27, an uncontrolled increase of the reactor's power occurred following work to upgrade the vessel. One of the reactors started up automatically when the control rods were raised to a higher position. Power increased to 18 times its normal amount, while pressure and temperature levels in the reactor increased to four times the normal amount. The automatic start-up of the reactor was caused by the incorrect installation of the control rod electrical cables and by operator error. Radiation levels aboard the vessel deteriorated.
+10/12/1968 - Mayak, Former Soviet Union. Criticality accident. Plutonium solution was poured into a cylindrical container with dangerous geometry. One person died, another took a high dose of radiation and radiation sickness, after which he had two legs and his right arm amputated.[40]
+January 1969: Lucens reactor in Switzerland undergoes partial core meltdown leading to massive radioactive contamination of a cavern.
+1970s
+1974–1976: Columbus radiotherapy accident, 10 fatalities, 88 injuries from cobalt-60 source.[10][62]
+July 1978: Anatoli Bugorski was working on U-70, the largest Soviet particle accelerator, when he accidentally exposed his head directly to the proton beam. He survived, despite suffering some long-term damage.
+July 1979: Church Rock Uranium Mill Spill in New Mexico, USA, when United Nuclear Corporation's uranium mill tailings disposal pond breached its dam. Over 1,000 tons of radioactive mill waste and millions of gallons of mine effluent flowed into the Puerco River, and contaminants traveled downstream.[63]
+1980s
+1980: Houston radiotherapy accident, 7 fatalities.[10][62]
+October 5, 1982: Lost radiation source, Baku, Azerbaijan, USSR. 5 fatalities, 13 injuries.[10]
+March 1984: Radiation accident in Morocco, eight fatalities from overexposure to radiation from a lost iridium-192 source.[13] 　
+1984: Fernald Feed Materials Production Center gained notoriety when it was learned that the plant was releasing millions of pounds of uranium dust into the atmosphere, causing major radioactive contamination of the surrounding areas. That same year, employee Dave Bocks, a 39-year-old pipefitter, disappeared during the facility's graveyard shift and was later reported missing. Eventually, his remains were discovered inside a uranium processing furnace located in Plant 6.[64]
+August 1985: Soviet submarine K-431 accident. Ten fatalities and 49 other people suffered radiation injuries.[8]
+October 1986: Soviet submarine K-219 reactor almost had a meltdown. Sergei Preminin died after he manually lowered the control rods, and stopped the explosion. The submarine sank three days later.
+September 1987: Goiania accident. Four fatalities, and following radiological screening of more than 100,000 people, it was ascertained that 249 people received serious radiation contamination from exposure to caesium-137.[14][65] In the cleanup operation, topsoil had to be removed from several sites, and several houses were demolished. All the objects from within those houses were removed and examined. Time magazine has identified the accident as one of the world's "worst nuclear disasters" and the International Atomic Energy Agency called it "one of the world's worst radiological incidents".[65][66]
+1989: San Salvador, El Salvador; one fatality due to violation of safety rules at cobalt-60 irradiation facility.[67]
+1990s
+1990: Soreq, Israel; one fatality due to violation of safety rules at cobalt-60 irradiation facility.[67]
+December 16 - 1990: radiotherapy accident in Zaragoza. Eleven fatalities and 27 other patients were injured.[51]
+1991: Neswizh, Belarus; one fatality due to violation of safety rules at cobalt-60 irradiation facility.[67]
+1992: Jilin, China; three fatalities at cobalt-60 irradiation facility.[67]
+1992: USA; one fatality.[67]
+April 1993: accident at the Tomsk-7 Reprocessing Complex, when a tank exploded while being cleaned with nitric acid. The explosion released a cloud of radioactive gas. (INES level 4).[19]
+1994: Tammiku, Estonia; one fatality from disposed caesium-137 source.[67]
+August — December 1996: Radiotherapy accident in Costa Rica. Thirteen fatalities and 114 other patients received an overdose of radiation.[11]
+1996: an accident at Pelindaba research facility in South Africa results in the exposure of workers to radiation. Harold Daniels and several others die from cancers and radiation burns related to the exposure.[68]
+June 1997: Sarov, Russia; one fatality due to violation of safety rules.[67]
+May 1998: The Acerinox accident was an incident of radioactive contamination in Southern Spain. A caesium-137 source managed to pass through the monitoring equipment in an Acerinox scrap metal reprocessing plant. When melted, the caesium-137 caused the release of a radioactive cloud.
+September 1999: two fatalities at criticality accident at Tokaimura nuclear accident (Japan)
+2000s
+January–February 2000: Samut Prakan radiation accident: three deaths and ten injuries resulted in Samut Prakarn when a cobalt-60 radiation-therapy unit was dismantled.[15]
+May 2000: Meet Halfa, Egypt; two fatalities due to radiography accident.[67]
+August 2000 – March 2001: Instituto Oncologico Nacional of Panama, 17 fatalities. Patients receiving treatment for prostate cancer and cancer of the cervix receive lethal doses of radiation.[10][69]
+August 9, 2004: Mihama Nuclear Power Plant accident, 4 fatalities. Hot water and steam leaked from a broken pipe (not actually a radiation accident).[70]
+9 May 2005: it was announced that Thermal Oxide Reprocessing Plant in the UK suffered a large leak of a highly radioactive solution, which first started in July 2004.[71]
+April 2010: Mayapuri radiological accident, India, one fatality after a cobalt-60 research irradiator was sold to a scrap metal dealer and dismantled.[15]
+2010s
+March 2011: Fukushima I nuclear accidents, Japan and the radioactive discharge at the Fukushima Daiichi Power Station.[72]
+January 17, 2014: At the Rössing Uranium Mine, Namibia, a catastrophic structural failure of a leach tank resulted in a major spill.[73] The France-based laboratory, CRIIAD, reported elevated levels of radioactive materials in the area surrounding the mine.[74][75] Workers were not informed of the dangers of working with radioactive materials and the health effects thereof.[76][77][78]
+February 1, 2014: Designed to last ten thousand years, the Waste Isolation Pilot Plant (WIPP) site had its first leak of airborne radioactive materials.[79][80] 140 employees working underground at the time were sheltered indoors. 13 of these tested positive for internal radioactive contamination. Internal exposure to radioactive isotopes is more serious than external exposure, as these particles lodge in the body for decades, irradiating the surrounding tissues, thus increasing the risk of future cancers and other health effects. A second leak at the plant occurred shortly after the first, releasing plutonium and other radiotoxins, causing concern for communities living near the repository.[81]
+Worldwide nuclear testing summary[edit]
+
+Over 2,000 nuclear tests have been conducted, in over a dozen different sites around the world. Red Russia/Soviet Union, blue France, light blue United States, violet Britain, black Israel, orange China, yellow India, brown Pakistan, green North Korea and light green (territories exposed to nuclear bombs)
+The airburst nuclear explosion of July 1, 1946. Photo taken from a tower on Bikini Island, 3.5 miles (5.6 km) away.
+Operation Crossroads Test Able, a 23-kiloton air-deployed nuclear weapon detonated on July 1, 1946. This bomb used, and consumed, the infamous Demon core that took the lives of two scientists in two separate criticality accidents.
+
+Radioactive materials were accidentally released from the 1970 Baneberry Nuclear Test at the Nevada Test Site.
+
+This handbill was distributed 16 days before the first nuclear device was detonated at the Nevada Test Site.
+Between 16 July 1945 and 23 September 1992, the United States maintained a program of vigorous nuclear testing, with the exception of a moratorium between November 1958 and September 1961. By official count, a total of 1,054 nuclear tests and two nuclear attacks were conducted, with over 100 of them taking place at sites in the Pacific Ocean, over 900 of them at the Nevada Test Site, and ten on miscellaneous sites in the United States (Alaska, Colorado, Mississippi, and New Mexico).[82] Until November 1962, the vast majority of the U.S. tests were atmospheric (that is, above-ground); after the acceptance of the Partial Test Ban Treaty all testing was regulated underground, in order to prevent the dispersion of nuclear fallout.
+
+The U.S. program of atmospheric nuclear testing exposed a number of the population to the hazards of fallout. Estimating exact numbers, and the exact consequences, of people exposed has been medically very difficult, with the exception of the high exposures of Marshall Islanders and Japanese fishers in the case of the Castle Bravo incident in 1954. A number of groups of U.S. citizens — especially farmers and inhabitants of cities downwind of the Nevada Test Site and U.S. military workers at various tests — have sued for compensation and recognition of their exposure, many successfully. The passage of the Radiation Exposure Compensation Act of 1990 allowed for a systematic filing of compensation claims in relation to testing as well as those employed at nuclear weapons facilities. As of June 2009 over $1.4 billion total has been given in compensation, with over $660 million going to "downwinders".[83]
+
+Worldwide nuclear testing totals by country
+Country	Tests[Notes 1]	Detonations[Notes 2]	Peaceful
+tests[Notes 3]	Atmospheric
+tests[Notes 4]	Yield
+range, kt	Total
+yield, kt	Percentage by
+test count	Percentage
+by yield
+USA[84]	1032[Notes 5]	1127	27[Notes 6]	231	0 to 15,000	196,513[Notes 7]	48.8%	37.0%
+USSR[85][86]	729[Notes 8]	982	156[Notes 9]	230	0 to 50,000	296,836	34.4%	54.0%
+Great Britain[86]	88[Notes 10]	88	0	33	0 to 3,000	9,282	4.2%	1.8%
+France[86]	212[Notes 11]	212	4[Notes 12]	52	0 to 2,600	13,567	10.0%	2.6%
+China[86]	47[Notes 13]	47	0	22	0 to 4,000	24,409	2.2%	4.6%
+India[86]	3	6	1[Notes 14]	0	0 to 43	68	0.14%	0.013%
+Pakistan[86]	2	6[Notes 15]	0	0	1 to 32	51	0.095%	0.0096%
+North Korea[86]	3	3	0	0	1 to 7	12	0.14%	0.0023%
+Totals	2116	2471	188	542	0 to 50,000	540,738
+
+This view of downtown Las Vegas shows a mushroom cloud in the background. Scenes such as this were typical during the 1950s. From 1951 to 1962 the government conducted 100 atmospheric tests at the nearby Nevada Test Site.
+Jump up ^ Including salvo tests counted as a single test.
+Jump up ^ Detonations include zero-yield detonations in safety tests and failed full yield tests, but not those in the accident category listed above.
+Jump up ^ As declared so by the nation testing; some may have been dual use.
+Jump up ^ Defined as these classes of tests: atmospheric, surface, barge, cratering, space, and underwater tests.
+Jump up ^ Including five tests in which the devices were destroyed before detonation, and the combat bombs dropped on Japan in World War II
+Jump up ^ Includes both application tests and research tests at NTS.
+Jump up ^ When the yield reads "< 20 kt" this total assumes the yield was half the maximum, i.e., 10 kt.
+Jump up ^ Includes the test left behind in Semipalatinsk and 13 apparent failures not in the official list.
+Jump up ^ 124 applications tests and 32 research tests which helped design better PNE charges.
+Jump up ^ Includes the 31 Vixen tests, which were safety tests.
+Jump up ^ Including two possible safety tests in 1978, which don't appear on other lists.
+Jump up ^ Four of the tests at In Ekker were the focus of attention by APEX (Application pacifique des expérimentations nucléaires). They even gave them different names, causing confusion.
+Jump up ^ Includes one bomb destroyed before detonation by a failed parachute.
+Jump up ^ Indira Gandhi, in her capacity as India's Minister of Atomic Energy at the time, declared the Smiling Buddha test to have been a test for the peaceful uses of atomic power.
+Jump up ^ There is some uncertainty as to exactly how many bombs were exploded in each of Pakistan's tests. It could be as low as three altogether or as high as six.
+Trafficking and thefts[edit]
+See also: Vulnerability of nuclear plants to attack
+The International Atomic Energy Agency says there is "a persistent problem with the illicit trafficking in nuclear and other radioactive materials, thefts, losses and other unauthorized activities".[87] The IAEA Illicit Nuclear Trafficking Database notes 1,266 incidents reported by 99 countries over the last 12 years, including 18 incidents involving HEU or plutonium trafficking:[22][65][88]
+
+Security specialist Shaun Gregory argued in an article that terrorists have attacked Pakistani nuclear facilities three times in the recent past; twice in 2007 and once in 2008.[89]
+In November 2007, burglars with unknown intentions infiltrated the Pelindaba nuclear research facility near Pretoria, South Africa. The burglars escaped without acquiring any of the uranium held at the facility.[90][91]
+In June 2007, the Federal Bureau of Investigation released to the press the name of Adnan Gulshair el Shukrijumah, allegedly the operations leader for developing tactical plans for detonating nuclear bombs in several American cities simultaneously.[92]
+In November 2006, MI5 warned that al-Qaida were planning on using nuclear weapons against cities in the United Kingdom by obtaining the bombs via clandestine means.[93]
+In February 2006, Oleg Khinsagov of Russia was arrested in Georgia, along with three Georgian accomplices, with 79.5 grams of 89 percent enriched HEU.[94]
+The Alexander Litvinenko poisoning with radioactive polonium "represents an ominous landmark: the beginning of an era of nuclear terrorism," according to Andrew J. Patterson.[95]
+In June 2002, U.S. citizen José Padilla was arrested for allegedly planning a radiological attack on the city of Chicago; however, he was never charged with such conduct. He was instead convicted of charges that he conspired to "murder, kidnap and maim" people overseas.
+Accident categories[edit]
+For a list of many of the most important accidents see the International Atomic Energy Agency site.[96]
+
+Nuclear meltdown[edit]
+Main articles: Nuclear meltdown and Design basis accident
+A nuclear meltdown is a severe nuclear reactor accident that results in reactor core damage from overheating. It has been defined as the accidental melting of the core of a nuclear reactor, and refers to the core's either complete or partial collapse.[97][98] A core melt accident occurs when the heat generated by a nuclear reactor exceeds the heat removed by the cooling systems to the point where at least one nuclear fuel element exceeds its melting point. This differs from a fuel element failure, which is not caused by high temperatures. A meltdown may be caused by a loss of coolant, loss of coolant pressure, or low coolant flow rate or be the result of a criticality excursion in which the reactor is operated at a power level that exceeds its design limits. Alternately, in a reactor plant such as the RBMK-1000, an external fire may endanger the core, leading to a meltdown.
+
+Large-scale nuclear meltdowns at civilian nuclear power plants include:[9][40]
+
+the Lucens reactor, Switzerland, in 1969.
+the Three Mile Island accident in Pennsylvania, United States, in 1979.
+the Chernobyl disaster at Chernobyl Nuclear Power Plant, Ukraine, USSR, in 1986.
+the Fukushima Daiichi nuclear disaster following the earthquake and tsunami in Japan, March 2011.
+Other core meltdowns have occurred at:[40]
+
+NRX (military), Ontario, Canada, in 1952
+BORAX-I (experimental), Idaho, U.S.A., in 1954
+EBR-I, Idaho, U.S.A., in 1955
+Windscale (military), Sellafield, England, in 1957 (see Windscale fire)
+Sodium Reactor Experiment, (civilian), California, U.S.A., in 1959
+Fermi 1 (civilian), Michigan, U.S.A., in 1966
+Chapelcross nuclear power station (civilian), Scotland, in 1967
+Saint-Laurent Nuclear Power Plant (civilian), France, in 1969
+A1 plant, (civilian) at Jaslovské Bohunice, Czechoslovakia, in 1977
+Saint-Laurent Nuclear Power Plant (civilian), France, in 1980
+Eight Soviet Navy nuclear submarines have had nuclear core meltdowns or radiation incidents: K-19 (1961), K-11(1965), K-27 (1968), K-140 (1968), K-429 (1970), K-222 (1980), K-314 (1985), and K-431 (1985).[9]
+
+Criticality accidents[edit]
+A criticality accident (also sometimes referred to as an "excursion" or "power excursion") occurs when a nuclear chain reaction is accidentally allowed to occur in fissile material, such as enriched uranium or plutonium. The Chernobyl accident is an example of a criticality accident. This accident destroyed a reactor at the plant and left a large geographic area uninhabitable. In a smaller scale accident at Sarov a technician working with highly enriched uranium was irradiated while preparing an experiment involving a sphere of fissile material. The Sarov accident is interesting because the system remained critical for many days before it could be stopped, though safely located in a shielded experimental hall.[99] This is an example of a limited scope accident where only a few people can be harmed, while no release of radioactivity into the environment occurred. A criticality accident with limited off site release of both radiation (gamma and neutron) and a very small release of radioactivity occurred at Tokaimura in 1999 during the production of enriched uranium fuel.[100] Two workers died, a third was permanently injured, and 350 citizens were exposed to radiation.
+
+Decay heat[edit]
+Decay heat accidents are where the heat generated by the radioactive decay causes harm. In a large nuclear reactor, a loss of coolant accident can damage the core: for example, at Three Mile Island a recently shutdown (SCRAMed) PWR reactor was left for a length of time without cooling water. As a result the nuclear fuel was damaged, and the core partially melted. The removal of the decay heat is a significant reactor safety concern, especially shortly after shutdown. Failure to remove decay heat may cause the reactor core temperature to rise to dangerous levels and has caused nuclear accidents. The heat removal is usually achieved through several redundant and diverse systems, and the heat is often dissipated to an 'ultimate heat sink' which has a large capacity and requires no active power, though this method is typically used after decay heat has reduced to a very small value. The main cause of release of radioactivity in the Three Mile Island accident was a pilot-operated relief valve on the primary loop which stuck in the open position. This caused the overflow tank into which it drained to rupture and release large amounts of radioactive cooling water into the containment building.
+
+In 2011, an earthquake and tsunami caused a loss of power to two plants in Fukushima, Japan, crippling the reactor as decay heat caused 90% of the fuel rods in the core of the Daiichi Unit 3 reactor to become uncovered.[101] As of May 30, 2011, the removal of decay heat is still a cause for concern.
+
+Transport[edit]
+Transport accidents can cause a release of radioactivity resulting in contamination or shielding to be damaged resulting in direct irradiation. In Cochabamba a defective gamma radiography set was transported in a passenger bus as cargo. The gamma source was outside the shielding, and it irradiated some bus passengers.
+
+In the United Kingdom, it was revealed in a court case that in March 2002 a radiotherapy source was transported from Leeds to Sellafield with defective shielding. The shielding had a gap on the underside. It is thought that no human has been seriously harmed by the escaping radiation.[102]
+
+Equipment failure[edit]
+Equipment failure is one possible type of accident. In Białystok, Poland, in 2001 the electronics associated with a particle accelerator used for the treatment of cancer suffered a malfunction.[103] This then led to the overexposure of at least one patient. While the initial failure was the simple failure of a semiconductor diode, it set in motion a series of events which led to a radiation injury.
+
+A related cause of accidents is failure of control software, as in the cases involving the Therac-25 medical radiotherapy equipment: the elimination of a hardware safety interlock in a new design model exposed a previously undetected bug in the control software, which could have led to patients receiving massive overdoses under a specific set of conditions.
+
+Human error[edit]
+
+A sketch used by doctors to determine the amount of radiation to which each person had been exposed during the Slotin excursion
+
+Part of a photo from an IAEA report on a radiation accident which occurred in Israel (Medical products treatment plant where the operator entered the irradiation room).[104]
+Many of the major nuclear accidents have been directly attributable to operator or human error. This was obviously the case in the analysis of both the Chernobyl and TMI-2 accidents. At Chernobyl, a test procedure was being conducted prior to the accident. The leaders of the test permitted operators to disable and ignore key protection circuits and warnings that would have normally shut the reactor down. At TMI-2, operators permitted thousands of gallons of water to escape from the reactor plant before observing that the coolant pumps were behaving abnormally. The coolant pumps were thus turned off to protect the pumps, which in turn led to the destruction of the reactor itself as cooling was completely lost within the core.
+
+A detailed investigation into SL-1 determined that one operator (perhaps inadvertently) manually pulled the 84-pound (38 kg) central control rod out about 26 inches rather than the maintenance procedure's intention of about 4 inches.[105]
+
+An assessment conducted by the Commissariat à l’Énergie Atomique (CEA) in France concluded that no amount of technical innovation can eliminate the risk of human-induced errors associated with the operation of nuclear power plants. Two types of mistakes were deemed most serious: errors committed during field operations, such as maintenance and testing, that can cause an accident; and human errors made during small accidents that cascade to complete failure.[7]
+
+In 1946 Canadian Manhattan Project physicist Louis Slotin performed a risky experiment known as "tickling the dragon's tail"[106] which involved two hemispheres of neutron-reflective beryllium being brought together around a plutonium core to bring it to criticality. Against operating procedures, the hemispheres were separated only by a screwdriver. The screwdriver slipped and set off a chain reaction criticality accident filling the room with harmful radiation and a flash of blue light (caused by excited, ionized air particles returning to their unexcited states). Slotin reflexively separated the hemispheres in reaction to the heat flash and blue light, preventing further irradiation of several co-workers present in the room. However, Slotin absorbed a lethal dose of the radiation and died nine days later. The infamous plutonium mass used in the experiment was referred to as the demon core.
+
+Lost source[edit]
+Lost source accidents,[107][108] also referred to as orphan sources, are incidents in which a radioactive source is lost, stolen or abandoned. The source then might cause harm to humans. One case occurred at Yanango where a radiography source was lost, also at Samut Prakarn a phosphorus teletherapy source was lost[109] and at Gilan in Iran a radiography source harmed a welder.[110] The best known example of this type of event is the Goiânia accident in Brazil.
+
+The International Atomic Energy Agency has provided guides for scrap metal collectors on what a sealed source might look like.[111][112] The scrap metal industry is the one where lost sources are most likely to be found.[113]
+
+Comparisons[edit]
+Comparing the historical safety record of civilian nuclear energy with other forms of electrical generation, Ball, Roberts, and Simpson, the IAEA, and the Paul Scherrer Institute found in separate studies that during the period from 1970 to 1992, there were just 39 on-the-job deaths of nuclear power plant workers worldwide, while during the same time period, there were 6,400 on-the-job deaths of coal power plant workers, 1,200 on-the-job deaths of natural gas power plant workers and members of the general public caused by natural gas power plants, and 4,000 deaths of members of the general public caused by hydroelectric power plants.[114][115][116] In particular, coal power plants are estimated to kill 24,000 Americans per year due to lung disease[117] as well as causing 40,000 heart attacks per year[118] in the United States. According to Scientific American, the average coal power plant emits 100 times more radiation per year than a comparatively sized nuclear power plant in the form of toxic coal waste known as fly ash.[119]
+
+Journalist Stephanie Cooke says that it is not very useful to make accident comparisons just in terms of number of immediate deaths, as the way people's lives are disrupted is also relevant, as in the case of the 2011 Japanese nuclear accidents, where 80,000 residents were forced to evacuate from neighborhoods around the Fukushima plant:[120]
+
+You have people in Japan right now that are facing either not returning to their homes forever, or if they do return to their homes, living in a contaminated area... And knowing that whatever food they eat, it might be contaminated and always living with this sort of shadow of fear over them that they will die early because of cancer... It doesn't just kill now, it kills later, and it could kill centuries later... I'm not a great fan of coal-burning. I don't think any of these great big massive plants that spew pollution into the air are good. But I don't think it's really helpful to make these comparisons just in terms of number of deaths.[121]
+
+Physicist Amory Lovins has said: "Nuclear power is the only energy source where mishap or malice can destroy so much value or kill many faraway people; the only one whose materials, technologies, and skills can help make and hide nuclear weapons; the only proposed climate solution that substitutes proliferation, major accidents, and radioactive-waste dangers".[122]
+
+In terms of energy accidents, hydroelectric plants were responsible for the most fatalities, but nuclear power plant accidents rank first in terms of their economic cost, accounting for 41 percent of all property damage. Oil and hydroelectric follow at around 25 percent each, followed by natural gas at 9 percent and coal at 2 percent.[17] Excluding Chernobyl and the Shimantan Dam, the three other most expensive accidents involved the Exxon Valdez oil spill (Alaska), the Prestige oil spill (Spain), and the Three Mile Island nuclear accident (Pennsylvania).[17]
+
+Nuclear safety[edit]
+Main article: Nuclear safety
+Nuclear safety covers the actions taken to prevent nuclear and radiation accidents or to limit their consequences. This covers nuclear power plants as well as all other nuclear facilities, the transportation of nuclear materials, and the use and storage of nuclear materials for medical, power, industry, and military uses.
+
+The nuclear power industry has improved the safety and performance of reactors, and has proposed new safer (but generally untested) reactor designs but there is no guarantee that the reactors will be designed, built and operated correctly.[123] Mistakes do occur and the designers of reactors at Fukushima in Japan did not anticipate that a tsunami generated by an earthquake would disable the backup systems that were supposed to stabilize the reactor after the earthquake.[124][125] According to UBS AG, the Fukushima I nuclear accidents have cast doubt on whether even an advanced economy like Japan can master nuclear safety.[126] Catastrophic scenarios involving terrorist attacks are also conceivable.[123]
+
+In his book, Normal accidents, Charles Perrow says that multiple and unexpected failures are built into society's complex and tightly-coupled nuclear reactor systems. Such accidents are unavoidable and cannot be designed around.[127] An interdisciplinary team from MIT have estimated that given the expected growth of nuclear power from 2005 – 2055, at least four serious nuclear accidents would be expected in that period.[128][129] To date, there have been five serious accidents (core damage) in the world since 1970 (one at Three Mile Island in 1979; one at Chernobyl in 1986; and three at Fukushima-Daiichi in 2011), corresponding to the beginning of the operation of generation II reactors. This leads to on average one serious accident happening every eight years worldwide.[125]
+
+In the 2003 book, Brittle Power, Amory Lovins talks about the need for a resilient, secure, energy system:
+
+The foundation of a secure energy system is to need less energy in the first place, then to get it from sources that are inherently invulnerable because they're diverse, dispersed, renewable, and mainly local. They're secure not because they're American but because of their design. Any highly centralised energy system -- pipelines, nuclear plants, refineries -- invite devastating attack. But invulnerable alternatives don't, and can't, fail on a large scale.[130]
+
